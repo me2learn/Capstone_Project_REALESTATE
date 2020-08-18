@@ -23,7 +23,7 @@ The dashboard must demonstrate relationships and trends for the key metrics as f
 
 
 ## RESULTS ACHIEVED:
-We have achieved an **RMSE of 69.19** with **adjusted R Squared value of 0.988** which is pretty close to 1, indicating our selected "Independent Variables" are highly correlated to our "Dependent Variable" and our model is able to predict very accurately.
+Achieved an **RMSE of 69.19** with **adjusted R Squared value of 0.988** which is pretty close to 1, indicating our selected "Independent Variables" are highly correlated to our "Dependent Variable" and our model is able to predict very accurately.
 
 Link to Tableau Dashboard:
 https://public.tableau.com/views/Case_Study_RE_SM/RE_STATS_Dashboard?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link
